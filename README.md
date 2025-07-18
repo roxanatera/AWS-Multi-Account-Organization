@@ -1,7 +1,7 @@
 # AWS-Multi-Account-Organization
 This project demonstrates a basic yet essential AWS Organizations structure, where we separate environments into dedicated accounts under a centralized management.
 
-![AWS Organization Diagram](./ruta/a/la/imagen.png)
+![AWS Organization Diagram](https://github.com/roxanatera/AWS-Multi-Account-Organization/blob/main/docs/aws-org-diagram.png)
 
 
 🧱 Architecture Overview
